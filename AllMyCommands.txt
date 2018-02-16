@@ -9,6 +9,8 @@ $ git commit -m
 $ git $ git remote add origin https://github.com/OmarAshrafSaleh/SE.git
 $ git branch
 $ git merge
+$git remote add
+$git clone 
 
 
 
